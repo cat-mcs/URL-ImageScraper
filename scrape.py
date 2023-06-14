@@ -53,8 +53,7 @@ def image_links(filename, dir):
 if __name__ == '__main__':
     name = input('Please Provide The Person Name: \n')
     url = input('Please Provide The Page URL: \n')
-    dir = 'cavani'
-    pages = 1
+    dir = 'scrapedpng'
     
     # setting up the chrome driver
     driver = webdriver.Chrome()
