@@ -9,4 +9,4 @@ For this code to execute, one needs to place the chrome driver executable in the
 The first input of the program is the name that will be assigned to the downloaded pngs. 
 The second input of the program is the url of the site that you wish to scrape the images from.
 
-Any questions, feel free to message me.
+Any questions - feel free to message me.
