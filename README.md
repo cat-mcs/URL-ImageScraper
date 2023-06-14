@@ -1,6 +1,6 @@
 # URL-ImageScraper
 
-##### DISCLAIMER: THIS WORK WAS INSPIRED BY: https://github.com/KryeKuzhinieri/Scrape-GettyImages-Using-Selenium
+##### DISCLAIMER (!) THIS WORK WAS INSPIRED BY: https://github.com/KryeKuzhinieri/Scrape-GettyImages-Using-Selenium
 
 For this code to execute, one needs to place the chrome driver executable in their PATH.
 - The download for the chrome driver can be found here: https://chromedriver.chromium.org/downloads
