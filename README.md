@@ -1,4 +1,4 @@
-# URL-ImageScraper
+# URL-ImageScraper 
 
 ##### DISCLAIMER (!) THIS WORK WAS INSPIRED BY: https://github.com/KryeKuzhinieri/Scrape-GettyImages-Using-Selenium
 
